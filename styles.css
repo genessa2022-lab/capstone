@@ -1,0 +1,11 @@
+p { 
+  color: rgb(247, 179, 43)  ;
+ }
+    body {
+        background-color: brown;
+        color: rgb(45, 30, 47);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    }
+    #ai {
+        color: rgb(247, 179, 43);
+    }
