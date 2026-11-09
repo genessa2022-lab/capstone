@@ -4,8 +4,58 @@ p {
     body {
         background-color: brown;
         color: rgb(45, 30, 47);
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+        font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
     }
+
     #ai {
         color: rgb(247, 179, 43);
+    }
+
+    header {
+        background-color: rgb(169, 229, 187);
+        font-size: 100;
+    }
+
+    h1 {
+        font-size: 50px;
+        font-weight:900;
+        text-align: center;
+    }
+
+    h2 {
+        background-color: rgb(247, 179, 43);
+        font-size: 32px;
+        text-align: center;
+
+    }
+    h3 {
+        background-color:rgb(247, 179, 43) ;
+        font-size: 28px;
+    }
+
+    div p {
+        line-height: 120%;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    li {
+        font-size: 20px;
+        color: rgb(126, 126, 164);
+    }
+    footer p {
+        color: beige
+    }
+    a:link,
+    a:focus,
+    a:active {
+        text-decoration: wavy;
+    }
+    a:visited {
+        text-decoration:rgb(45, 30, 47);
+    }
+    a:hover {
+        text-decoration: underline;
     }
