@@ -81,9 +81,7 @@
     a:visited {
         text-decoration:rgb(45, 30, 47);
     }
-    a:hover {
-        text-decoration: underline;
-    }
+   
     .bottom-p { 
         font-display: block;
         font-style: bold;
