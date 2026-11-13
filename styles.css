@@ -7,12 +7,19 @@
         background-attachment: scroll;
     
     }
+    head {}
+    .andika-regular {
+    font-family: "Andika", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    } 
     .title {
         background-image: url(https://cdn.pixabay.com/photo/2016/08/05/10/38/banner-1571988_1280.jpg);
         margin: 40px auto;
         width: 1200px;
         height: 200px;
         border:4px rgb(45, 30, 47)
+
     }
    
     
@@ -25,7 +32,7 @@
         max-height: 30px;
         max-width: 50px;
         background-size: cover;
-        border: 9px green;
+        border: 9px darkblue;
     }
     .about {
         background-color: rgb(169, 229, 187);
@@ -37,17 +44,12 @@
     #aim {
         background-color: rgb(169, 229, 187);
         font-size: 100;
+        font-weight: 900;
         border: 10px darkorange;
         align-content: center;
 
     }
-    .about-us {
-       background-image: url(./media/sunsetjpg);
-       height: 220px;
-       background-size: cover; 
-
-
-    }
+    
 
     #about-us {
         font-style:oblique;
@@ -61,7 +63,7 @@
     #p1 {
         background-color: rgb(169, 229, 187);
         line-height: 120%;
-        font-color: black;
+        color: black;
     }
 
     h1 {
