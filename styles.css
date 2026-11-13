@@ -1,20 +1,11 @@
     body {
         margin: 10px;
-        background-image: url(./media/white-background.jpg);
+        background-image: url(https://cdn.pixabay.com/photo/2022/11/24/02/28/clouds-7613361_1280.png) ;
         background-size: cover;
-        width:1200px;
-        height: 1400px;
-        background-repeat: repeat;
-        background-attachment:fixed;
-        min-height: 100vh;
+        width:1400px;
+        height: 2000px;
+        background-attachment: scroll;
     
-    }
-    * {
-        border: 8px black;
-        background-image: url(./media/white-background.jpg);
-        background-size: cover;
-        background-position: center;
-        background-repeat: repeat;
     }
     .title {
         background-image: url(https://cdn.pixabay.com/photo/2016/08/05/10/38/banner-1571988_1280.jpg);
@@ -35,6 +26,12 @@
         max-width: 50px;
         background-size: cover;
         border: 9px green;
+    }
+    .about {
+        background-color: rgb(169, 229, 187);
+    }
+    .gallery {
+        background-color: rgb(169, 229, 187);
     }
 
     #aim {
