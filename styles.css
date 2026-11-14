@@ -1,27 +1,26 @@
     body {
         margin: 10px;
-        background-image: url(https://cdn.pixabay.com/photo/2022/11/24/02/28/clouds-7613361_1280.png) ;
+        background-image: url(https://cdn.pixabay.com/photo/2020/07/09/13/36/abstract-5387368_1280.jpg) ;
         background-size: cover;
-        width:1400px;
-        height: 2000px;
-        background-attachment: scroll;
-    
-    }
-    head {}
-    .andika-regular {
-    font-family: "Andika", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+        width:700px;
+        height: 1000px;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
     } 
     .title {
-        background-image: url(https://cdn.pixabay.com/photo/2016/08/05/10/38/banner-1571988_1280.jpg);
+        background-image: url();
         margin: 40px auto;
         width: 1200px;
-        height: 200px;
-        border:4px rgb(45, 30, 47)
+        height: 100px;
+        border:4px solid rgb(45, 30, 47);
 
     }
-   
+   main {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+   }
     
     .title-img {
         max-height: 20px;
@@ -34,96 +33,15 @@
         background-size: cover;
         border: 9px darkblue;
     }
-    .about {
+    .about-h3 {
         background-color: rgb(169, 229, 187);
+        max-width: 900px;
+        margin: 31px auto;
+        padding: 23px;
+        border:3px solid orangered;
+        border-radius: 12px;
     }
     .gallery {
         background-color: rgb(169, 229, 187);
     }
 
-    #aim {
-        background-color: rgb(169, 229, 187);
-        font-size: 100;
-        font-weight: 900;
-        border: 10px darkorange;
-        align-content: center;
-
-    }
-    
-
-    #about-us {
-        font-style:oblique;
-        margin-top: 8px;
-        margin-bottom: 0px;
-        margin-right: 0px;
-        margin-left: 0px;
-        width: 40%;
-    }
-
-    #p1 {
-        background-color: rgb(169, 229, 187);
-        line-height: 120%;
-        color: black;
-    }
-
-    h1 {
-        background-color: rgb(169, 229, 187);
-        font-size: 76px;
-        font-weight:900;
-        text-align: center;
-        margin: 30px, 40px, 30px, 30px;
-        padding: 30px;
-        border: 8px rgb(81, 26, 2);
-        width: 70%;
-    }
-
-    h2 {
-        background-color: rgb(247, 179, 43);
-        font-size: 32px;
-        text-align: center;
-        padding: 20px;
-        border: 10px darkblue; 
-
-
-    }
-    h3 {
-        background-color:rgb(247, 179, 43) ;
-        font-size: 28px;
-        width: 25%;
-        height: 30%;
-        padding: 10px;
-        
-        
-    }
-
-    div p {
-        line-height: 120%;
-    }
-
-    p {
-        font-size: 20px;
-        font-weight: 500%;
-    }
-
-    li {
-        font-size: 20px;
-        color: rgb(45, 30, 47);
-    }
-    footer p {
-        color: beige
-    }
-    a:link,
-    a:focus,
-    a:active {
-        text-decoration: wavy;
-    }
-    a:visited {
-        text-decoration:rgb(45, 30, 47);
-    }
-   
-    .bottom-p { 
-        font-display: block;
-        font-style: bold;
-        color:black;
-        border: 7px solid black;
-    }
