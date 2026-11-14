@@ -42,6 +42,12 @@
         border-radius: 12px;
     }
     .gallery {
-        background-color: rgb(169, 229, 187);
+      background-color: lightslategray;
+      padding: 30px;
+    }
+    header-a {
+        padding: 20px;
+        
+
     }
 
